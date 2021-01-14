@@ -1,0 +1,17 @@
+body{
+	padding-left: 738px;
+	font-family: sans-serif;
+}
+
+.form_login{
+	width: 400px;
+	height: 500px;
+	border: 5px solid gray;
+	border-radius: 10px;
+	text-align: center;
+	width: 400px;
+	height: 500px;
+	background-image:url(login.jpg);
+	font-size: 25px;
+
+

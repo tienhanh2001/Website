@@ -125,10 +125,10 @@
 		<div class="product-group">
 			<div class="row">
 				<?php 
-				$username = "root"; // Khai báo username
-				$password = "";      // Khai báo password
-				$server   = "localhost";   // Khai báo server
-				$dbname   = "webzing";      // Khai báo database
+				$username = "Hanhnt"; // Khai báo username
+$password = "123@123a";      // Khai báo password
+$server   = "34.200.32.20";   // Khai báo server
+$dbname   = "webzing";      // Khai báo database
 
 				// Kết nối database tintuc
 				$connect = new mysqli($server, $username, $password, $dbname);

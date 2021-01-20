@@ -57,7 +57,7 @@
                      User profile
                   </a>
                   <div class="dropdown-content">
-                      <a class="dropdown-item" href="login.php">Login</a>
+                      <a class="dropdown-item" href="index.php">Login</a>
                       <a class="dropdown-item" href="register.php">Register</a>
                       <a class="dropdown-item" href="register.php">Logout</a>
                       <div class="dropdown-divider"></div>

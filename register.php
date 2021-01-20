@@ -11,7 +11,7 @@
       <tr align="center">
         <td colspan="4"><h2>Register</h2>
           <br />
-          <span> Already have account? <a href="login.php">Login Now</a><br />
+          <span> Already have account? <a href="index.php">Login Now</a><br />
           <br />
           </span></td>
       </tr>
@@ -36,7 +36,7 @@
 </div>
 
 <?php
-$con = new mysqli('localhost', 'root', '', 'webzing');
+$con = new mysqli('34.200.32.20', 'Hanhnt', '123@123a', 'webzing');
 if (!$con) {
     echo "ket noi that bai";
 }

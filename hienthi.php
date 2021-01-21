@@ -124,9 +124,9 @@
 
 
 <?php
-$hostname = "34.200.32.20";
+$hostname = "54.147.207.19";
 $user = "Hanhnt";
-$pass = "123@123a";
+$pass = "17092001";
 $db = "webzing";
 $con = mysqli_connect($hostname,$user,$pass,$db);
 mysqli_query($con,$db);

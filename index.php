@@ -50,7 +50,7 @@
         </div>
       </div>
       <?php
-      $con = new mysqli('34.200.32.20', 'Hanhnt', '123@123a', 'webzing');
+      $con = new mysqli('54.147.207.19', 'Hanhnt', '17092001', 'webzing');
             if (!$con)
             {
               echo "ket noi that bai";

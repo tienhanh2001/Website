@@ -126,8 +126,8 @@
 			<div class="row">
 				<?php 
 				$username = "Hanhnt"; // Khai báo username
-$password = "123@123a";      // Khai báo password
-$server   = "34.200.32.20";   // Khai báo server
+$password = "17092001";      // Khai báo password
+$server   = "54.147.207.19";   // Khai báo server
 $dbname   = "webzing";      // Khai báo database
 
 				// Kết nối database tintuc

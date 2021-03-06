@@ -70,8 +70,8 @@
 
 <?php 
                 $username = "Hanhnt"; // Khai báo username
-                $password = "17092001";      // Khai báo password
-                $server   = "54.147.207.19";   // Khai báo server
+                $password = "";      // Khai báo password
+                $server   = "35.172.225.137";   // Khai báo server
                 $dbname   = "webzing";      // Khai báo database
 
                 // Kết nối database tintuc

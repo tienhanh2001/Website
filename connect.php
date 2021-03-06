@@ -1,7 +1,7 @@
 <?php
-		$hostname = "54.147.207.19";
+		$hostname = "35.172.225.137";
 		$user = "Hanhnt";
-		$pass = "17092001";
+		$pass = "hanhnt";
 		$db = "webzing";
 
 		$con = mysqli_connect($hostname,$user,$pass,$db);

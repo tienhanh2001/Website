@@ -126,7 +126,7 @@
 			<div class="row">
 				<?php 
 				$username = "Hanhnt"; // Khai báo username
-$password = "hanhnt";      // Khai báo password
+$password = "123@123a";      // Khai báo password
 $server   = "35.172.225.137";   // Khai báo server
 $dbname   = "webzing";      // Khai báo database
 
